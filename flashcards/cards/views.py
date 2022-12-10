@@ -1,4 +1,5 @@
 # cards/views.py
+import random
 from django.urls import reverse_lazy
 from django.views.generic import (
 ListView,
